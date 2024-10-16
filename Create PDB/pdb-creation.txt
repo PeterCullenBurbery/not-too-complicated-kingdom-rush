@@ -1,0 +1,4 @@
+Enter PDB name:
+not too complicated Kingdom Rush
+Creating with PDB name--(NOT_TOO_COMPLICATED_KINGDOM_RUSH) and PDB admin--(NOT_TOO_COMPLICATED_KINGDOM_RUSH)
+Pluggable Database created successfully!
